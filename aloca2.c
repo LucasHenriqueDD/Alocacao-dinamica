@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "time.h"
+//Questao 3 de alocacao
 int *criavetor(int i){
     int *p;
     p=(int*) malloc(i*sizeof(int*));
