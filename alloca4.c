@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//QUESTAO 5 A DO CPF
 typedef struct{
     char nome[25]; 
     int nascimento; 
