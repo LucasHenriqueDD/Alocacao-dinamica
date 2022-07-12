@@ -4,6 +4,7 @@
 #include "exibevetor.h"
 
 int main(){
+	// A GIGANTESCA QUESTAO 4
     //Criando os vetores com o malloc...
     int *p,*v,*q;
     int i,k,a,b,contador=0,contador1=0,n,j,g,h,d,u,parada,f,interacao=-1;
